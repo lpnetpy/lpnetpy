@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hi, I'm Luan 👋
 
-<!--
-**lpnetpy/lpnetpy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Statistics student at UFF (Niterói, RJ, Brazil)
+🐍 Focused on Python applied to data, automation, and AI
+🚀 Looking for an internship or freelance/contract opportunity in data, AI, or development
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔨 Featured project
+**[ASM (Automated Sorting Manager)](link-do-repo)** — a Python/PySide6 desktop application with OCR, full-text search, and packaging for distribution. I led the project's direction, testing, and manual adjustments with support from AI tools.
+
+---
+
+### 🧰 Tech & tools
+`Python` `SQL (MariaDB/SQLite)` `NoSQL (MongoDB)` `FastAPI` `Git/GitHub` `TDD`
+
+📚 Certificate: **Vivo - Python AI Backend Developer** (DIO, 67h) — FastAPI, TDD, SQL, NoSQL, and theoretical foundations of AI, Machine Learning, NLP, Computer Vision, and Generative AI
+
+📫 [LinkedIn](https://linkedin.com/in/luanbraune)
