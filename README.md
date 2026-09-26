@@ -1,9 +1,9 @@
 ### Hi, I'm Luan 👋
 
-- 🎓 Statistics student at Universidade Federal Fluminense (UFF), Niterói, RJ, Brazil
-- 🐍 Focused on Python applied to data, automation, and AI
-- 🚀 Looking for an internship or freelance/contract opportunity in data, AI, or software development
-- 🌱 Currently deepening my knowledge of backend development and applied AI
+-  Statistics student at Universidade Federal Fluminense (UFF), Niterói, RJ, Brazil
+-  Focused on Python applied to data, automation, and AI
+-  Looking for an internship or freelance/contract opportunity in data, AI, or software development
+-  Currently deepening my knowledge of backend development and applied AI
 
 ---
 
